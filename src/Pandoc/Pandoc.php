@@ -92,7 +92,8 @@ class Pandoc
         "textile",
         "rtf",
         "org",
-        "asciidoc"
+        "asciidoc",
+		"jira"
     );
 
     /**
